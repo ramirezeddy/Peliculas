@@ -1,0 +1,33 @@
+
+.on_page{
+ background: whitesmoke;
+}
+.off_page{
+background: slategray;
+}
+.estilo_uso_de_estado{
+    padding: 10px;
+    width:1000px;
+    background-color: blue;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    width: auto;
+
+}
+.carta_pokemon{
+    text-align: center;
+    border: solid 1px black;
+    margin: 50px 100px;
+}
+.estilo_card{
+background-color: blueviolet;
+color: beige;
+padding: 10px ;
+}
+.encendido{
+    background-color: green;
+}
+.apagado{
+background-color: red;
+}
